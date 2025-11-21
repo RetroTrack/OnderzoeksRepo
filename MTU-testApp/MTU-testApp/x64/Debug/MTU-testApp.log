@@ -1,0 +1,3 @@
+﻿  MTU-testApp.cpp
+C:\Users\kathi\Desktop\schoolProjects\C++ opdrachten\MTU-testApp\MTU-testApp\MTU-testApp.cpp(62,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MTU-testApp.vcxproj -> C:\Users\kathi\Desktop\schoolProjects\C++ opdrachten\MTU-testApp\x64\Debug\MTU-testApp.exe
